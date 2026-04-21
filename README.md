@@ -90,47 +90,11 @@ Currently Exploring:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 &nbsp; How I Think
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🔴  PROBLEM                                                    │
-│         ↓                                                       │
-│  🟠  "What is actually broken here?"  ← most people skip this  │
-│         ↓                                                       │
-│  🟡  DECONSTRUCT  →  break into the smallest possible pieces    │
-│         ↓                                                       │
-│  🟢  PATTERN MATCH  →  have I seen something like this before?  │
-│         ↓                                                       │
-│  🔵  BUILD  →  smallest working version first, always          │
-│         ↓                                                       │
-│  🟣  QUESTION  →  does this feel right to a real human?         │
-│         ↓                                                       │
-│  ✅  REFINE  →  iterate until it becomes invisible              │
-│               (the best UI is the one nobody notices)           │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ &nbsp; Engineering Philosophy
-
-<div align="center">
-
-| | Principle | In Practice |
-|---|---|---|
-| 🧠 | **Think before typing** | Understand the problem before writing a single line |
-| 🔬 | **Read the error** | Bugs are messages — they're telling you something |
-| 🏗️ | **Structure first** | Bad architecture can't be fixed with clever code |
-| 👁️ | **Design is logic** | If a user gets confused, the design failed — not the user |
-| 📦 | **Ship small, ship often** | Working software beats perfect plans every time |
-| ♻️ | **Write for the next person** | That person is almost always future you |
-
-</div>
 
 ---
 
@@ -169,7 +133,7 @@ Currently Exploring:
 
 [![GitHub](https://img.shields.io/badge/GitHub-@dijakhan--58-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dijakhan-58)
 
-*Open to collaborations &nbsp;·&nbsp; Learning in public &nbsp;·&nbsp; Building with purpose*
+
 
 </div>
 
