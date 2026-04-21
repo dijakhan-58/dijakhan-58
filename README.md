@@ -24,7 +24,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 I'm a developer from Karachi who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
 
