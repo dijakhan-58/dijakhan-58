@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE0NTNlOG12anhpamVvbWhudWY2NHV2MGNoanl6emptdnF6bTBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif " width="30"> &nbsp; About Me
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE0NTNlOG12anhpamVvbWhudWY2NHV2MGNoanl6emptdnF6bTBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> &nbsp; About Me
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
