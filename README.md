@@ -24,7 +24,7 @@
 
 ## <img src="" width="30"> &nbsp; About Me
 
-<img align="right" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE0NTNlOG12anhpamVvbWhudWY2NHV2MGNoanl6emptdnF6bTBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="200"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE0NTNlOG12anhpamVvbWhudWY2NHV2MGNoanl6emptdnF6bTBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 I'm a developer from Karachi who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
 
