@@ -27,7 +27,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-I'm a ** developer from Karachi** who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
+I'm a developer from Karachi who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
 
 I got into development not just to build things, but to understand *why* things work the way they do. That curiosity drives everything — from how a layout breathes to how a user flows through an interface without friction.
 
@@ -50,21 +50,6 @@ I got into development not just to build things, but to understand *why* things 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-```yaml
-Languages:
-  HTML5      →  Semantic, accessible, structured markup
-  CSS3       →  Layouts, animations, responsive systems
-  JavaScript →  Logic, interactivity, DOM manipulation
-
-Currently Exploring:
-  → Advanced CSS Grid & Container Queries
-  → JavaScript: from syntax to architecture
-  → UI animation & micro-interaction design
-  → React fundamentals & component design
-```
 
 ---
 
