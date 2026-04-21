@@ -1,183 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:58a6ff&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-```
-    ·  ·  ·   d i j a   ·  ·  ·
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=frontend+developer+%C2%B7+ui%2Fux+thinker;building+things+worth+using;karachi+%C2%B7+utc%2B05%3A00;somewhere+between+a+blank+screen+and+something+real" alt="Typing SVG" />
-
-<br/>
-
-[![](https://komarev.com/ghpvc/?username=dijakhan-58&color=58a6ff&style=flat-square&label=↳+people+stopped+here)](https://github.com/dijakhan-58)
-[![GitHub followers](https://img.shields.io/github/followers/dijakhan-58?style=flat-square&color=58a6ff&labelColor=0d1117&label=followers)](https://github.com/dijakhan-58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khadija%20Asim%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=dijakhan-58%20·%20dija&descAlignY=60&descAlign=50)
 
 </div>
-
----
 
 <div align="center">
 
-*not here to be noticed.*
-*here to build things that are.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Engineer+%F0%9F%8E%A8;Interface+Thinker+%F0%9F%A7%A0;Building+from+Karachi+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+📍 **Karachi, Pakistan** &nbsp;·&nbsp; 🕐 **UTC +05:00** &nbsp;·&nbsp; 🌱 **Always Building**
+
+[![GitHub followers](https://img.shields.io/github/followers/dijakhan-58?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers&logo=github)](https://github.com/dijakhan-58)
+[![Profile Views](https://komarev.com/ghpvc/?username=dijakhan-58&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/dijakhan-58)
 
 </div>
 
 ---
 
-## ◈ &nbsp; the work
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
 
-**[↗ projectofmonth](https://github.com/dijakhan-58/projectofmonth)**
-&nbsp;`CSS`
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-> *a business that had no corner on the internet.*
-> *now it does.*
+> *"I don't just write code — I engineer experiences that people feel, not just use."*
 
-</td>
-<td width="50%" valign="top">
+I'm a **frontend developer from Karachi** who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
 
-**[↗ nextGenDev-Carvan-](https://github.com/dijakhan-58/nextGenDev-Carvan-)**
-&nbsp;`HTML`
+I got into development not just to build things, but to understand *why* things work the way they do. That curiosity drives everything — from how a layout breathes to how a user flows through an interface without friction.
 
-> *a caravan of developers needed*
-> *somewhere to gather.*
+When I'm not coding, I'm studying UI patterns, dissecting designs, and asking: *"Could this be simpler? Could this be smarter?"*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[↗ carvan_project](https://github.com/dijakhan-58/carvan_project)**
-&nbsp;`CSS`
-
-> *how does design communicate*
-> *movement without moving?*
-
-</td>
-<td width="50%" valign="top">
-
-**[↗ techacademy](https://github.com/dijakhan-58/techacademy)**
-&nbsp;`HTML`
-
-> *a student somewhere needed*
-> *learning to feel less complicated.*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[↗ bakeryWeb](https://github.com/dijakhan-58/bakeryWeb)**
-&nbsp;`CSS`
-
-> *good design isn't just for startups.*
-> *small things deserve it too.*
-
-</td>
-<td width="50%" valign="top">
-
-**✦ &nbsp; more in progress**
-
-> *built, broken, debugged, shipped.*
-> *the commit history doesn't lie.*
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## ◈ &nbsp; the stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
-  structure   →  before style
-  style       →  before motion
-  motion      →  only if it earns its place
-  simplicity  →  always
-  ──────────────────────────────────
-  html   css   javascript   git
-  vs code   figma   github
-```
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
 
----
+<div align="center">
 
-## ◈ &nbsp; the process
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-```
-         ·
-         ↓
-   something's off
-         ↓
-   what's actually wrong?     ← most skip this
-         ↓
-   smallest piece that breaks
-         ↓
-   fix that · only that
-         ↓
-   does it feel right
-   to a real human?
-         ↓
-   ship · learn · repeat
-         ↓
-         ·
-```
-
----
-
-## ◈ &nbsp; a few things that are true
+</div>
 
 ```yaml
-  · good interfaces don't ask for attention
-  · a confused user is never the problem
-  · karachi · 23:something · still at it
-  · following: 1  →  intentional
-  · still early · watching that change
+Languages:
+  HTML5      →  Semantic, accessible, structured markup
+  CSS3       →  Layouts, animations, responsive systems
+  JavaScript →  Logic, interactivity, DOM manipulation
+
+Currently Exploring:
+  → Advanced CSS Grid & Container Queries
+  → JavaScript: from syntax to architecture
+  → UI animation & micro-interaction design
+  → React fundamentals & component design
 ```
 
 ---
 
-## ◈ &nbsp; stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 &nbsp; Projects
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dijakhan-58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijakhan-58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-<br/>
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=dijakhan-58&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1b2e&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+| 🎨 Project | ⚡ Stack | 💡 The Idea |
+|---|---|---|
+| [**projectofmonth**](https://github.com/dijakhan-58/projectofmonth) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Consistency as a skill — something ships every month |
+| [**nextGenDev-Carvan-**](https://github.com/dijakhan-58/nextGenDev-Carvan-) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Learning faster when you move in a caravan |
+| [**carvan_project**](https://github.com/dijakhan-58/carvan_project) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Design that communicates movement & direction |
+| [**techacademy**](https://github.com/dijakhan-58/techacademy) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Knowledge should be accessible & beautiful |
+| [**bakeryWeb**](https://github.com/dijakhan-58/bakeryWeb) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Every business deserves a beautiful digital presence |
 
 </div>
 
 ---
 
-## ◈ &nbsp; currently
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧠 &nbsp; How I Think
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🔴  PROBLEM                                                    │
+│         ↓                                                       │
+│  🟠  "What is actually broken here?"  ← most people skip this  │
+│         ↓                                                       │
+│  🟡  DECONSTRUCT  →  break into the smallest possible pieces    │
+│         ↓                                                       │
+│  🟢  PATTERN MATCH  →  have I seen something like this before?  │
+│         ↓                                                       │
+│  🔵  BUILD  →  smallest working version first, always          │
+│         ↓                                                       │
+│  🟣  QUESTION  →  does this feel right to a real human?         │
+│         ↓                                                       │
+│  ✅  REFINE  →  iterate until it becomes invisible              │
+│               (the best UI is the one nobody notices)           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⚡ &nbsp; Engineering Philosophy
+
+<div align="center">
+
+| | Principle | In Practice |
+|---|---|---|
+| 🧠 | **Think before typing** | Understand the problem before writing a single line |
+| 🔬 | **Read the error** | Bugs are messages — they're telling you something |
+| 🏗️ | **Structure first** | Bad architecture can't be fixed with clever code |
+| 👁️ | **Design is logic** | If a user gets confused, the design failed — not the user |
+| 📦 | **Ship small, ship often** | Working software beats perfect plans every time |
+| ♻️ | **Write for the next person** | That person is almost always future you |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dijakhan-58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijakhan-58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dijakhan-58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌱 &nbsp; Currently
 
 ```diff
-+ building     something new
-+ learning     deeper than syntax
-+ reading      things with nothing to do with code
-+ practicing   one commit · every day
-~ exploring    react · components · systems
-~ planning     first open-source step
++ Building:    New projects that solve real, tangible problems
++ Learning:    JavaScript architecture & CSS systems thinking
++ Reading:     UI/UX case studies from real-world products
++ Practicing:  One commit a day — small progress beats no progress
+~ Exploring:   React fundamentals & component design
+~ Planning:    First open-source contribution
 ```
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 &nbsp; Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@dijakhan--58-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dijakhan-58)
+
+*Open to collaborations &nbsp;·&nbsp; Learning in public &nbsp;·&nbsp; Building with purpose*
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b2e,100:0d1117&height=100&section=footer&text=&animation=fadeIn" width="100%"/>
-
-```
-· · · dijakhan-58 · karachi · utc+05:00 · · ·
-```
-
-*"every great developer was once a beginner*
-*who simply refused to stay one."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ship.%20Learn.%20Improve.%20Repeat.&fontSize=24&fontColor=fff&animation=fadeIn)
 
 </div>
