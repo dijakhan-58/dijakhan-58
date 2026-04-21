@@ -27,13 +27,11 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-> *"I don't just write code — I engineer experiences that people feel, not just use."*
-
-I'm a **frontend developer from Karachi** who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
+I'm a ** developer from Karachi** who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
 
 I got into development not just to build things, but to understand *why* things work the way they do. That curiosity drives everything — from how a layout breathes to how a user flows through an interface without friction.
 
-When I'm not coding, I'm studying UI patterns, dissecting designs, and asking: *"Could this be simpler? Could this be smarter?"*
+
 
 <br>
 
@@ -85,16 +83,6 @@ Currently Exploring:
 | [**bakeryWeb**](https://github.com/dijakhan-58/bakeryWeb) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Every business deserves a beautiful digital presence |
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ---
 
