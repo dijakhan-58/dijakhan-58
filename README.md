@@ -54,21 +54,7 @@ I got into development not just to build things, but to understand *why* things 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 &nbsp; Projects
 
-<div align="center">
-
-| 🎨 Project | ⚡ Stack | 💡 The Idea |
-|---|---|---|
-| [**projectofmonth**](https://github.com/dijakhan-58/projectofmonth) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Consistency as a skill — something ships every month |
-| [**nextGenDev-Carvan-**](https://github.com/dijakhan-58/nextGenDev-Carvan-) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Learning faster when you move in a caravan |
-| [**carvan_project**](https://github.com/dijakhan-58/carvan_project) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Design that communicates movement & direction |
-| [**techacademy**](https://github.com/dijakhan-58/techacademy) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Knowledge should be accessible & beautiful |
-| [**bakeryWeb**](https://github.com/dijakhan-58/bakeryWeb) | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | Every business deserves a beautiful digital presence |
-
-</div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
