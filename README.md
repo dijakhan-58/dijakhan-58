@@ -89,6 +89,6 @@ I got into development not just to build things, but to understand *why* things 
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Ship.%20Learn.%20Improve.%20Repeat.&fontSize=24&fontColor=fff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,2&height=120&section=footer&text=Learn.%20Improve.%20Repeat.&fontSize=24&fontColor=fff&animation=fadeIn)
 
 </div>
