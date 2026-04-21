@@ -52,9 +52,6 @@ I got into development not just to build things, but to understand *why* things 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 🚀 Current Projects
-- 🏎️ **Carvan** - A high-end automotive marketplace portal.
-- 🛒 **MegaCart** - E-commerce platform with smooth UI transitions.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
