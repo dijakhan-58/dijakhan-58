@@ -157,14 +157,7 @@ Currently Exploring:
 
 ## 🌱 &nbsp; Currently
 
-```diff
-+ Building:    New projects that solve real, tangible problems
-+ Learning:    JavaScript architecture & CSS systems thinking
-+ Reading:     UI/UX case studies from real-world products
-+ Practicing:  One commit a day — small progress beats no progress
-~ Exploring:   React fundamentals & component design
-~ Planning:    First open-source contribution
-```
+
 
 ---
 
