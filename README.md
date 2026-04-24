@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=screen+bright;city+quiet;+debugging+in+silence)](https://git.io/typing-svg)
 </div>
 
-<div align="center">
+<div align="center"> 
 
 📍 **Karachi, Pakistan** &nbsp;·&nbsp; 🕐 **UTC +05:00** &nbsp;·&nbsp; 🌱 **Always Building**
 
