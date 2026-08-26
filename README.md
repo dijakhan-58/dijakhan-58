@@ -1,219 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KHADIJA%20ASIM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=developer%20%7C%20designer%20%7C%20problem%20solver&descAlignY=61&descSize=18&animation=fadeIn&color=0d1117" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khadija%20Asim%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=dijakhan-58%20·%20dija&descAlignY=60&descAlign=50)
 
-<br>
+</div>
 
-### `dijakhan-58`
+<div align="center">
 
-**I build interfaces that feel simple — and systems that work behind them.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=screen+bright;city+quiet;+debugging+in+silence)](https://git.io/typing-svg)
+</div>
 
-<br>
+<div align="center"> 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=building+with+Laravel+%26+PHP;turning+ideas+into+working+products;designing+clean+%26+usable+interfaces;learning+something+new+every+day" />
+📍 **Karachi, Pakistan** &nbsp;·&nbsp; 🕐 **UTC +05:00** &nbsp;·&nbsp; 🌱 **Always Building**
 
-<br>
-
-`Karachi, Pakistan`  ·  `UTC +05:00`  ·  `Always Building`
+[![GitHub followers](https://img.shields.io/github/followers/dijakhan-58?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers&logo=github)](https://github.com/dijakhan-58)
+[![Profile Views](https://komarev.com/ghpvc/?username=dijakhan-58&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/dijakhan-58)
 
 </div>
 
 ---
 
-## `01` — About
 
-<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">   About Me
 
-I'm **Khadija Asim**, a developer who enjoys working where **design meets logic**.
 
-I like understanding how things work beneath the interface — from database structure and authentication to the small UI details that make an application feel polished.
 
-Currently, I'm focused on **web application development**, especially with **PHP, Laravel, MySQL and JavaScript**, while continuing to strengthen my frontend and UI/UX skills.
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE0NTNlOG12anhpamVvbWhudWY2NHV2MGNoanl6emptdnF6bTBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
-```text
-→ build
-→ break
-→ understand
-→ improve
-→ repeat
-```
+I'm a developer from Karachi who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
 
-<br clear="right"/>
+I got into development not just to build things, but to understand *why* things work the way they do. That curiosity drives everything — from how a layout breathes to how a user flows through an interface without friction.
 
----
 
-## `02` — What I Work With
-
-### `Frontend`
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
-</p>
-
-### `Backend & Database`
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
-
-### `Tools & Design`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## `03` — Currently Building
-
-<table>
-<tr>
-<td width="55%">
-
-###  Vaccination Management System
-
-A role-based web platform designed to connect:
-
-`Admin` → `Hospital` → `Parent` → `Child`
-
-Built around real-world workflows such as:
-
-* Child management
-* Vaccine scheduling
-* Hospital approval
-* Appointment booking
-* Vaccination records
-* Notifications
-* Reports & certificates
-* Role-based access control
-
-**Stack**
-
-`Laravel` `PHP` `MySQL` `JavaScript` `Bootstrap`
-
-</td>
-
-<td width="45%">
-
-```text
-SYSTEM FLOW
-
-        ADMIN
-          │
-          ▼
-      HOSPITAL
-          │
-          ▼
-       PARENT
-          │
-          ▼
-        CHILD
-          │
-          ▼
-    VACCINATION
-          │
-          ▼
-      RECORDS
-          │
-          ▼
-    CERTIFICATE
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — Development Philosophy
-
-> **Good software isn't only about making something work.
-> It's about making it understandable, usable and maintainable.**
-
-I care about:
-
-`Clean structure`
-`Useful interfaces`
-`Reusable components`
-`Secure authentication`
-`Logical database design`
-`Real-world workflows`
-
----
-
-## `05` — GitHub Activity
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dijakhan-58&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijakhan-58&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
 
 <br>
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dijakhan-58&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dijakhan-58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijakhan-58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dijakhan-58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
 
 </div>
 
 ---
 
-## `06` — Contribution Graph
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 &nbsp; Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dijakhan-58&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-@dijakhan--58-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dijakhan-58)
+
+
 
 </div>
 
 ---
 
-## `07` — Beyond Code
-
-```text
-I don't want to just collect technologies.
-
-I want to understand them.
-
-HTML        → structure
-CSS         → visual language
-JavaScript  → interaction
-PHP         → server-side logic
-Laravel     → application architecture
-MySQL       → data
-Figma       → visual thinking
-Git         → collaboration
-
-The goal isn't to know everything.
-
-The goal is to keep getting better.
-```
-
----
-
-## `08` — Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/dijakhan-58">
-<img src="https://img.shields.io/badge/GitHub-dijakhan--58-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dijakhan-58&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `Build quietly. Improve constantly.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d1117&animation=fadeIn" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,2&height=120&section=footer&text=Learn.%20Improve.%20Repeat.&fontSize=24&fontColor=fff&animation=fadeIn)
 
 </div>
