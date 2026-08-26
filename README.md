@@ -1,84 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Khadija%20Asim%20Khan&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Laravel%20%2B%20PHP%20%2B%20MySQL&descAlignY=55&descColor=cfd8ff" width="100%"/>
-
-<a href="https://github.com/dijakhan-58">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=8B9DFF&center=true&vCenter=true&width=460&lines=building+backend+systems+that+hold;Laravel+%2B+PHP+%2B+MySQL;co-founder+%40+CodeCraft;quiet+logic%2C+loud+results" alt="Typing SVG" />
-</a>
-
-📍 Karachi, Pakistan &nbsp;·&nbsp; 🕐 UTC+05:00 &nbsp;·&nbsp; 🎓 ACCP AI, Aptech — Sem 2
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khadija%20Asim%20Khan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=dijakhan-58%20·%20dija&descAlignY=60&descAlign=50)
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=screen+bright;city+quiet;+debugging+in+silence)](https://git.io/typing-svg)
+</div>
+
+<div align="center"> 
+
+📍 **Karachi, Pakistan** &nbsp;·&nbsp; 🕐 **UTC +05:00** &nbsp;·&nbsp; 🌱 **Always Building**
+
+[![GitHub followers](https://img.shields.io/github/followers/dijakhan-58?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=Followers&logo=github)](https://github.com/dijakhan-58)
+[![Profile Views](https://komarev.com/ghpvc/?username=dijakhan-58&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/dijakhan-58)
+
+</div>
+
+---
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">   About Me
+
+
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE0NTNlOG12anhpamVvbWhudWY2NHV2MGNoanl6emptdnF6bTBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+
+I'm a developer from Karachi who believes every pixel should have a purpose and every line of code should solve a real problem. My work lives at the intersection of **logic and design** — where structured thinking meets visual clarity.
+
+I got into development not just to build things, but to understand *why* things work the way they do. That curiosity drives everything — from how a layout breathes to how a user flows through an interface without friction.
+
+
+
 <br>
 
-## &nbsp;⟡&nbsp; About
+---
 
-I'm a backend-leaning developer who spent Semester 1 on frontend and is now deep in **PHP, MySQL, and Laravel** — the systems underneath the interfaces. I like the parts of software most people don't see: the schema that holds up under real data, the route that never breaks, the auth flow nobody has to think about.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Outside of coursework, I co-founded **CodeCraft**, a small three-person web development agency, and I create Quranic content on YouTube — two very different disciplines that both come down to the same thing: structure something clearly enough that someone else can trust it.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Currently**
-- 🧩 Building Laravel systems with real role-based access (patients/doctors/admins, teachers/students)
-- 🛠️ Running client projects through CodeCraft
-- 📜 HackerRank JavaScript Intermediate certified
-
-</td>
-<td width="50%" valign="top">
-
-**Recent builds**
-- 🏥 CARE Group Portal — appointment booking, 3 roles
-- 💉 Care4Kids — vaccination management system
-- 🏫 Digital Room Management System — institution platform
-- 🎓 Meridian Classroom — Google Classroom–style LMS
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## &nbsp;⟡&nbsp; Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp; Tech Stack
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</div>
+---
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## &nbsp;⟡&nbsp; GitHub Stats
 
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dijakhan-58&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B9DFF&icon_color=8B9DFF&text_color=c9d1d9&rank_icon=github" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijakhan-58&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B9DFF&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dijakhan-58&hide_border=true&background=0d1117&stroke=8B9DFF&ring=8B9DFF&fire=FF7B72&currStreakLabel=8B9DFF" />
-</div>
-
-<br>
-
-## &nbsp;⟡&nbsp; Connect
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-dijakhan--58-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dijakhan-58)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dijakhan-58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijakhan-58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dijakhan-58&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 &nbsp; Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@dijakhan--58-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dijakhan-58)
+
+
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,2,2&height=120&section=footer&text=Learn.%20Improve.%20Repeat.&fontSize=24&fontColor=fff&animation=fadeIn)
+
 </div>
